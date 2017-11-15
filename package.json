@@ -1,0 +1,22 @@
+{
+  "name": "material-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanziano/material-portlet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanziano/material-portlet/issues"
+  },
+  "homepage": "https://github.com/emanziano/material-portlet#readme",
+  "dependencies": {
+    "react": "^16.1.1"
+  }
+}
